@@ -1,4 +1,4 @@
-## oi, eu sou Vitória Marques!
+## prazer, eu sou a Vitória Marques!
 
 <div>
   <a href="https://github.com/vitoriampires"></a>
